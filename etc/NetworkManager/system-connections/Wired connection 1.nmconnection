@@ -1,0 +1,24 @@
+[connection]
+id=Wired connection 1
+uuid=39509bb5-2c2c-3fc5-9f7c-aacbc3b71a58
+type=ethernet
+autoconnect=false
+autoconnect-priority=-999
+interface-name=enp5s0
+permissions=user:root:;
+timestamp=1600044076
+
+[ethernet]
+mac-address-blacklist=
+
+[ipv4]
+dns-search=
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+dns-search=
+ip6-privacy=0
+method=auto
+
+[proxy]

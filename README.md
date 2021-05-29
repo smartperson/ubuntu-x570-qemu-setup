@@ -16,6 +16,8 @@ Everything I need to remember (and do) to set up my Linux machine the way I need
 
 ## RGB
 * OpenRGB
+    * CPU has 20 LEDs
+    
 
 ## Virtualization SW
 * qemu

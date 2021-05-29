@@ -1,0 +1,19 @@
+<!--
+WARNING: THIS IS AN AUTO-GENERATED FILE. CHANGES TO IT ARE LIKELY TO BE
+OVERWRITTEN AND LOST. Changes to this xml configuration should be made using:
+  virsh pool-edit hdd_pool
+or other application using the libvirt API.
+-->
+
+<pool type='dir'>
+  <name>hdd_pool</name>
+  <uuid>f9e0b807-b14d-4fc2-8265-eb68d2e987d5</uuid>
+  <capacity unit='bytes'>0</capacity>
+  <allocation unit='bytes'>0</allocation>
+  <available unit='bytes'>0</available>
+  <source>
+  </source>
+  <target>
+    <path>/media/varun/files/VirtualMachines</path>
+  </target>
+</pool>

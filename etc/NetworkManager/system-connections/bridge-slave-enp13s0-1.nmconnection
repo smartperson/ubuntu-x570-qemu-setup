@@ -1,0 +1,13 @@
+[connection]
+id=bridge-slave-enp13s0-1
+uuid=5c844cc8-8b33-4b9a-8a69-f7a88e3f6dab
+type=ethernet
+interface-name=enp13s0
+master=br0
+permissions=
+slave-type=bridge
+
+[ethernet]
+mac-address-blacklist=
+
+[bridge-port]
